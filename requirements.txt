@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+pyyaml>=6.0
+# GPU experiments only (llm_gpu/):
+aiohttp>=3.9

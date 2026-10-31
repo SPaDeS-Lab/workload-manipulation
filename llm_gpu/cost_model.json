@@ -1,0 +1,11 @@
+{
+  "model_name": "google/gemma-3-12b-it",
+  "c0": 0.012,
+  "c_seq": 0.00018,
+  "c_kv": 4.5e-07,
+  "c_pf": 0.00018,
+  "c_pf2": 5e-09,
+  "kv_capacity": 65536,
+  "max_batch": 128,
+  "max_prefill_tokens": 8192
+}
